@@ -6,7 +6,7 @@ Nazywam się Kacper, jestem **Początkującym Programistą** i wykonuje prywatne
 
 ## Umiejętności
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
