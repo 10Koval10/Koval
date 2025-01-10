@@ -1,4 +1,4 @@
-![buymeacoffee](https://github.com/user-attachments/assets/3a8adadc-30bc-4262-85a9-5d477b5d7c3b)### Cześć 👋
+### Cześć 👋
 
 Nazywam się Kacper, jestem **Początkującym Programistą** i wykonuje prywatne zlecenia za darmo, głownie związane z robieniem gier lub z developerką serwerów Fivem i Minecraft [Discord Kontaktowy](https://discord.com/users/819502015662653461). Programowaniem na poważnie zajmuje się od prawie roku lecz początki sięgają do 2021. Jeśli chcesz dowiedzieć się o mnie więcej poniżej znajdują się linki:
 
@@ -24,5 +24,7 @@ Nazywam się Kacper, jestem **Początkującym Programistą** i wykonuje prywatne
 
 buymeacoffee.com/koval82pll
 
-[![Kup mi kawę](https://simpleicons.org/icons/buymeacoffee.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koval-2-733096346/)
+[![Kup mi kawę](http://www.w3.org/2000/svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koval-2-733096346/)
+
+
 
