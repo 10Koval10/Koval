@@ -16,7 +16,7 @@ Nazywam się Kacper, jestem **Początkującym Programistą** i wykonuje prywatne
 
 ## Statystyki
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=10Koval10&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10Koval10&hide=TeX&layout=compact&theme=prussian)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=10Koval10.10Koval10)
