@@ -24,7 +24,5 @@ Nazywam się Kacper, jestem **Początkującym Programistą** i wykonuje prywatne
 
 buymeacoffee.com/koval82pll
 
-[![Kup mi kawę](http://www.w3.org/2000/svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koval-2-733096346/)
-
-
+[![Kup mi kawę](file:///C:/Users/Admin/Downloads/buymeacoffee%20(2).svg?style=for-the-badge&logo=linkedin&logoColor=#FFDD00)](https://www.linkedin.com/in/koval-2-733096346/)
 
