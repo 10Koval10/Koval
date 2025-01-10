@@ -22,6 +22,6 @@ Nazywam się Kacper, jestem **Początkującym Programistą** i wykonuje prywatne
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=10Koval10.10Koval10)
 ## Wsparcie 
 
-buymeacoffee.com/koval82pll
+(buymeacoffee.com/koval82pll)
 
 
